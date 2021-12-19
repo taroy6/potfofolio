@@ -3,8 +3,8 @@
 /*
 $host = "mysql57.webtaro.sakura.ne.jp";
 $dbname = "webtaro_toeic";
-$dbuser = "webtaro";
-$dbpass = "paginawebtapo13";
+$dbuser = "*******";
+$dbpass = "*********";
 */
 $host = "localhost";
 $dbname = "toeic";
