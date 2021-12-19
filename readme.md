@@ -2,7 +2,7 @@
 
 "Language Bootcamp" は語学学習サイトです。あらかじめ登録された問題を解いて、提出することができます。
 
-URI: webtaro.sakura.ne.jp
+URL: webtaro.sakura.ne.jp
 
 ゲスト様用ID: guest
 
@@ -38,9 +38,13 @@ submit ボタンでデータベースへ送信されます。
 
 ## 使用した技術
 HTML 5
+
 CSS 3
+
 JavaScript(jQuery 3.3.1)
+
 PHP 8.0.10
+
 MySQL 4.9.5
 
 
